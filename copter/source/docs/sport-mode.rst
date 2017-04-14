@@ -20,6 +20,6 @@ Overview
    adjustable with the ANGLE_MAX parameter)
 -  The altitude is maintained with the altitude hold controller so the
    vehicle will attempt to hold it's current altitude when the sticks
-   are placed with 10% of mid-throttle. It will climb or descend at up
+   are placed within 10% of mid-throttle. It will climb or descend at up
    to 2.5m/s (this speed is adjustable with the PILOT_VELZ_MAX
    parameter)
